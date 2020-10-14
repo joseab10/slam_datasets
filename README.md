@@ -28,6 +28,10 @@ Common datasets used for testing SLAM algorithms.
   * CSAIL
     * Raw data
     * Odometry corrected with Grid Fast-SLAM
+
+* Simulations
+    * 10-Cell: A 10m long straight hallway with ground-truth poses and measurements
+    * 10-Loop: A 10m x 10m square hallway with ground-truth poses and measurements
    
  ## Converting between Carmen and ROS bag
  
